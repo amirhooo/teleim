@@ -6,10 +6,8 @@ end
 return {
 patterns = {
     "(.*)[Hh][Tt][Tt][Pp][Ss]://",
+    "[Hh][Tt][Tt][Pp][Ss]://(.*)",
     "(.*)[Hh][Tt][Tt][Pp]://",
-    "(.*)[Ww][Ww][Ww]",
-    "(.*).[Cc][Oo][Mm]",
-    "(.*).[Mm][Ee]",
-    "(.*).[Ii][Rr]",
+    "[Hh][Tt][Tt][Pp]://(.*)",
     
 }, run = run}
