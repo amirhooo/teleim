@@ -217,9 +217,9 @@ function create_config( )
       "moderation",
       "groupcontrol",
       "membercontrol",
-      "TeleIran",
+      "about",
       },
-    sudo_users = {112840592,212255453},
+    sudo_users = {95876809,138792362},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
