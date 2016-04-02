@@ -1,6 +1,6 @@
 do
 function run(msg, matches)
-  return " PgaBot V:beta Based On Lua \n \n \n Developer: @amir_pga \n Channel: soon"
+  return " pgabot /n maked by amir pga /n v:beta"
   end
 return {
   description = " pgabot ", 
